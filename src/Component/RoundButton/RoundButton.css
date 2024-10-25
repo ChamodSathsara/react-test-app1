@@ -1,0 +1,12 @@
+.my-btn {
+  color: wheat;
+  padding: 10px;
+  border: 1px solid black;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.my-btn:hover {
+  background-color: wheat;
+  color: green;
+}
